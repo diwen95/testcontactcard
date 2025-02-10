@@ -1,10 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Doe;John;;;
-FN:John Doe
+N:wendy;;;
+FN:tang
 ORG:ABC Company
 TITLE:Sales Manager
 TEL;TYPE=mobile:+60123456789
-EMAIL:john.doe@email.com
+EMAIL:wendy@email.com
 URL:https://www.abccompany.com
 END:VCARD
